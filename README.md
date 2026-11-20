@@ -10,7 +10,7 @@
 ## 📌 Project Overview
 This repository contains the comprehensive manual QA testing artifacts for **Remedy8**, an AI-powered audit and remediation management platform. 
 
-Remedy8 is designed to consolidate the audit lifecycle—from planning to evidence collection and closure—into a controlled workspace. A key differentiator of the platform is its "Auditor-controlled AI," which helps generate audit objectives, methodologies, and risk focuses while ensuring the human auditor remains the final decision-maker.
+Remedy8 is designed to consolidate the audit lifecycle from planning to evidence collection and closure into a controlled workspace. A key differentiator of the platform is its "Auditor-controlled AI," which helps generate audit objectives, methodologies, and risk focuses while ensuring the human auditor remains the final decision-maker.
 
 ### 🎯 Scope of Testing
 The primary focus of this QA phase was the **"New Audit" creation workflow** accessed via the **My Dashboard**. I thoroughly tested the end-to-end audit creation process across three distinct phases:
