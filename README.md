@@ -57,3 +57,8 @@ Testing uncovered **7 distinct defects**. While severity and priority were marke
 3.  **Fix Dropdown Logic:** Investigate the state management issue preventing Year/Quarter selection.
 4.  **Z-Index Adjustment:** Adjust the CSS `z-index` of the floating "Ask Remedy8" widget so it never overlaps critical navigation buttons.
 
+### 📂 Project Files
+*   [View the raw Test Cases](./test-cases/Remedy8_Test_Cases.csv)
+*   [View the Bug Report](./bug-report/Remedy8_Bug_Report.csv) 
+*   [Download the Master Excel Workbook](./Remedy8_QA_Project.xlsx)
+
